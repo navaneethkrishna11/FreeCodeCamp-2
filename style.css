@@ -1,0 +1,69 @@
+* {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+main {
+    background-color: whitesmoke;
+    padding: 10px;
+    font-size: 20px;
+    color:#eee;
+    background: #eee;
+}
+
+h1{
+    text-align: center;
+    font-size: 2.5rem;
+    color:#333;
+}
+h3{
+    text-align:center;
+    font-size:1rem;
+    color:#333;
+}
+
+p {
+    text-align: center;
+    color:#333;
+    font-size: 1rem;
+}
+
+figure {
+    background-color: white;
+    padding: 10px;
+}
+
+figcaption {
+    text-align: center;
+    padding: 10px;
+    color:#333;
+}
+
+#tribute-info {
+    text-align: center;
+}
+
+ul {
+    display: inline-block;
+    text-align: left;
+    color:#333;
+    font-size: 1rem;
+}
+
+li {
+    padding: 5px;
+}
+
+#image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    border-radius: 4px;
+    align-items:center;
+}
+cite{
+    color:#333;
+}
+blockquote{
+    font-style: italic;
+}
